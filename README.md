@@ -110,7 +110,7 @@ Tecnologías utilizadas: React, Redux, Node, Sequelize, CSS, Express.
  <br/><br/><br/> <!-- 3 espacios -->
  
   <!-- title project 03 -->
- <h3><a href="https://www.textchest.com/" target="_blank" rel="noreferrer">TextChest</a></h3>
+ <h3><a href="https://www.textchest.com/" target="_blank" rel="noreferrer">TextChest</a></h3> <h5>[Proyecto Laboral Real]</h5>
  
   <!-- descript -->
 Proyecto laboral real mi tarea consistió en: desarrollo frontend en nuxtjs (version vuejs de nextjs), involucra interactuar con una db NoSQL (firestore) para lograr una UI reactiva y endpoints en google cloud functions en nodejs; también realicé la versión estática del sitio institucional, prototipado y diseño.
