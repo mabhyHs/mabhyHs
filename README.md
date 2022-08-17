@@ -17,55 +17,34 @@ Me gusta el verde, la naturaleza y me inspiro muchísimo de ella, amo viajar, co
 En este momento me encuentro en la búsqueda de desafíos en donde pueda incorporar nuevos conocimientos y consolidar mi carrera profesional en una empresa nuevos retos constantes y estabilidad.
 Busco aumentar mi experiencia profesional en un entorno donde pueda aprender.
  </i>
+ <br><br>
+<hr />
+
+<h3 align="left">Tecnologias y Herramientas:</h3>
+
+<p><img src="https://res.cloudinary.com/dz4ejl4ym/image/upload/v1660700156/Control_de_versiones_f4whdx.png"/> </p>
 
 
-<h2 align="left">Tecnologias:</h2>
+ <hr />
+ <br /><br />
+ <h2>Estadísticas:</h2> 
+ <div>
+<img src="https://github-readme-stats.vercel.app/api?username=mabhyhs&show_icons=true" alt="mabhyhs" />
 
-<h4>FrontEnd</4>
-<p>
- <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" width="40"/> 
-
-<img src="https://camo.githubusercontent.com/42d79599b684d4449d0fab6ee8df849c39fa0148993c7680b85210494dda4599/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3630302f52656163742e6a735f6c6f676f2d3531322e706e67" width="40" /> 
-<img src="https://camo.githubusercontent.com/b2cb9808399ad53bdcf25e6e1d4906ced494ad70fc7a6de5cb2b6c552f77870f/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f72656475782d6c6f676f2e706e67"  width="40" />
- </p>
- 
- 
-<h4>BackEnd & DataBase</h4>
-<p>
-<img src="https://camo.githubusercontent.com/22623d91d9cfe8469a76892f9af3cb9dde4cd7572c23fbb9754e98a6be48598c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f706f73746772656573716c2e706e67" width="40" />
- 
- <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"  width="40"/>
-
-<img src="https://camo.githubusercontent.com/cb2c9bbbe7f9f0ca8a28455107c3a7b1b98040c605eae0893d890e40955f563e/68747470733a2f2f692e6962622e636f2f784736676d66632f3538343832656534636566313031346330623565346137352d312e706e67" width="40" />
- 
- <img src="https://camo.githubusercontent.com/7072b110e23339ac00169ad3337ee267ef4cd533171787b9fd7852e2e8bb08f2/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031352f30342f32332f31372f34312f6e6f64652d6a732d3733363339395f3936305f3732302e706e67"  width="60" />
-
-<img src="https://camo.githubusercontent.com/449c52f7898657e449020360294f2c1950f3153df29b55603f7e0829cbf88df4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36342f457870726573736a732e706e67" width="70" />
-</p>
-
-<h4>Git</h4>
-<p>
-<img src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67 "  width="40"/>
-</p>
- 
- 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabhyhs&show_icons=true&theme=radical)
- 
- <!-- subtitle -->
-<!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mabhyhs&" alt="mabhyhs" />
+</div>
 <!-- stats de github -->
  
-<!--  <br/><br/> --> <!-- 2 espacios -->
+ <br /><br />
  
-<h2>Aquí dejo algunos de mis proyectos</h2>
+<h2>Algunos de mis proyectos</h2>
 
  <!-- title project 01 -->
  <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3> <h5>[Proyecto Grupal]</h5>
  
   <!-- descript -->
 
-Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarelas de pago (mercado pago), mediante control de versiones con GIT/GITHUB, manejado con metodología Kanban en Trello.
+Realicé el Diseño de imagen corporativa, UI/UX. Lideré el equipo siendo parte de mis rol la organización de trello, asignación de tareas, armado de Backlog, estimación de tiempos y situaciones críticas, encontrar y aplicar estrategias para la optimización del tiempo, control de pull requests, resolución de conflictos en ramas; utilizamos desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner los avances de la app que se basa en un ecommerce para la comercialización de comida rápida(hamburguesas), nuestro mayor objetivo es agilizarle al usuario la compra que pueda realizarla de manera rápida en un entorno intuitivo diseñado para optimizar y acortar los tiempos de espera, evital filas innecesarias, elevar la seguridad ya que al tener pasarela de pago se evita el uso de tarjetas físicas en locales, al ser completamente responsive puede utilizarse en cualquier dispositivo. Cuenta con funcionalidades como CRUD, auth, integración de pasarelas de pago (mercado pago), mediante control de versiones con GIT/GITHUB, manejado con metodología Kanban en Trello.
  
   Implementaciones: 
 * Pasarela de pago (MercadoPago)
@@ -77,6 +56,16 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * Bcrypt (hasheo de contraseñas)
 * Utilización de Bootstrap (responsive & estilos)
 * Figma (Prototipado)
+
+Equipo:
+* <a href="https://github.com/siprem10" target="_blank" rel="noreferrer">Ramiro Dominguez</a>
+* <a href="https://github.com/FLeiras" target="_blank" rel="noreferrer">Federico Leiras</a>
+* <a href="https://github.com/PJuanCruz" target="_blank" rel="noreferrer">Juan Cruz Peluffo</a>
+* <a href="https://github.com/maurorodriguez" target="_blank" rel="noreferrer">Mauro Rodriguez</a>
+* <a href="https://github.com/pablogarciamoralez" target="_blank" rel="noreferrer">Pablo García Moralez</a>
+* <a href="https://github.com/mabhyHs" target="_blank" rel="noreferrer">Huens Mailen</a>
+
+
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/dz4ejl4ym/image/upload/v1660667883/Dise%C3%B1o_sin_t%C3%ADtulo_3_b9wjoe.gif)
