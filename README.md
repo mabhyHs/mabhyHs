@@ -3,13 +3,13 @@
   <hr />
  
  <br/> <!-- 1 espacio -->
- <i align="left">Soy Programadora Full-Stack, especialista en Front-end⚛️.
+ <i align="left">Soy Programadora Full-Stack,me especializo en Front-end⚛️.
  <br/>
- Realicé muchas capacitaciones entre ellas el Bootcamp Soy Henry, donde aprendí a trabajar en equipo, a liderar, organizar, planear, resolver problemas y a tener paciencia 😅.
+ Realicé muchas capacitaciones entre ellas el Bootcamp Soy Henry, donde aprendí a trabajar en equipo, a liderar, organizar, planear, resolver problemas, gestionar la frustración y desarrollar aún más la paciencia.
  <br/>
- Actualmente sigo profundizando en las tecnologías que ya domino ya que me interesa ofrecer calidad en mi trabajo.
+ Actualmente sigo profundizando en las tecnologías que domino ya que me interesa ofrecer calidad en mi trabajo.
  
-Considero que es fundamental crear herramientas tecnológicas en las que se vinculen una multiplicidad de disciplinas, en donde se combinen conocimientos de las ciencias sociales y programación. 
+Considero que es fundamental crear herramientas tecnológicas en las que se vinculen una multiplicidad de disciplinas, donde se combinen conocimientos de las ciencias sociales y programación. 
 En la actualidad se están generando transformaciones profundas en nuestra realidad y quiero contribuir al desarrollo de soluciones innovadoras a estos nuevos desafíos
 
 Me gusta el verde, la naturaleza y me inspiro muchísimo de ella, amo viajar, conocer nuevas experiencia y culturas. Según mi punto de vista, la vida es un viaje creativo, de exploración y crecimiento constante, me gusta mucho nutrirme de las cosas mas pequeñas y bonitas de la vida cotidiana. 
@@ -58,14 +58,14 @@ Busco aumentar mi experiencia profesional en un entorno donde pueda aprender.
  
 <!--  <br/><br/> --> <!-- 2 espacios -->
  
-<h1>Aquí dejo algunos de mis proyectos</h1>
+<h2>Aquí dejo algunos de mis proyectos</h2>
 
  <!-- title project 01 -->
- <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3>
+ <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3> <h5>[Proyecto Grupal]</h5>
  
   <!-- descript -->
 
-Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarelas de pago (mercado pago), mediante control de versiones con GIT/GITHUB, manejado con metodología Kanban en Trello y Slack.
+Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarelas de pago (mercado pago), mediante control de versiones con GIT/GITHUB, manejado con metodología Kanban en Trello.
  
   Implementaciones: 
 * Pasarela de pago (MercadoPago)
@@ -76,6 +76,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * Envio de orden con QRCODE
 * Bcrypt (hasheo de contraseñas)
 * Utilización de Bootstrap (responsive & estilos)
+* Figma (Prototipado)
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/dz4ejl4ym/image/upload/v1660667883/Dise%C3%B1o_sin_t%C3%ADtulo_3_b9wjoe.gif)
@@ -90,7 +91,7 @@ Dejate tentar por las más ricas hamburguesas -->
  <br/><br/> <!-- 2 espacios -->
  
  <!-- title project 02 -->
- <h3><a href="https://henry-countries-app.vercel.app/" target="_blank" rel="noreferrer">Countries App</a></h3>
+ <h3><a href="https://henry-countries-app.vercel.app/" target="_blank" rel="noreferrer">Countries App</a></h3> <h5>[Proyecto Individual]</h5>
 
   <!-- descript -->
  Proyecto individual del bootcamp de Soy Henry, en el mismo debíamos aplicar todos los conocimientos obtenidos a lo largo del proceso educativo.
