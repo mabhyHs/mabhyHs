@@ -3,7 +3,7 @@
   <hr />
  
  <br/> <!-- 1 espacio -->
- <i align="left">Soy Programadora Full-Stack,me especializo en Front-end⚛️.
+ <i align="left">Soy Programadora Full-Stack, me especializo en desarrollo Front-end⚛️.
  <br/>
  Realicé muchas capacitaciones entre ellas el Bootcamp Soy Henry, donde aprendí a trabajar en equipo, a liderar, organizar, planear, resolver problemas, gestionar la frustración y desarrollar aún más la paciencia.
  <br/>
